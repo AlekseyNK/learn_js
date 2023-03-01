@@ -130,7 +130,7 @@ alert ( setSpaces(strSetSpaces)) */
 /* let strGetCountOfWords = prompt ( 'Введите строку для подсчета количества слов' )
 alert ( getCountOfWords(strGetCountOfWords) ) */
 
-/* let strShowCountOfUniqueWords = prompt ( 'Введите строку для подсчета количества уникальных слов' )
+let strShowCountOfUniqueWords = prompt ( 'Введите строку для подсчета количества уникальных слов' )
 console.log( getCountOfUniqueWords(strShowCountOfUniqueWords) )
-showCountOfUniqueWords( strShowCountOfUniqueWords ) */
+showCountOfUniqueWords( strShowCountOfUniqueWords )
 

@@ -17,9 +17,10 @@ let pr2 = new Product('Ccc', 100, 2, 'Ddd');
 let pr3 = new Product('Fdd', 100, 5, 'Ddd');
 let pr4 = new Product('FFD', 100, 10, 'Aabc');
 let pr5 = new Product('Aaaafd', 2, 20, 'Aabc');
+let pr6 = new Product('Aaaa', 2, 20, 'Aabcfd');
 
 // Массив, наполненный экземплярами класса Товар
-let arrayOfProducts = [pr1, pr2, pr3, pr4, pr5];
+let arrayOfProducts = [pr1, pr2, pr3, pr4, pr5, pr6];
 
 // Объект для вызова соответсвующей функции поиска в поле класса
 let objQueres = {

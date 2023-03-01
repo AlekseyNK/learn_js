@@ -154,12 +154,12 @@ function getDivision (num1, num2) {
 
 //Tests
 
-//let num1 = prompt('Введите первое число')
-//let num2 = prompt('Введите второе число')
+let num1 = prompt('Введите первое число')
+let num2 = prompt('Введите второе число')
 
 
 
 //alert (getSum(num1, num2))
 //alert (getSubtraction(num1, num2))
 //alert (getMultiplication(num1, num2))
-//alert (getDivision(num1, num2))
+alert (getDivision(num1, num2))
